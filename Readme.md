@@ -2,10 +2,7 @@
 ![Manual](https://github.com/aditya23043/PassManager/blob/main/images/manual.jpg?raw=true)
 
 # Screenshots
-<img src="https://github.com/aditya23043/PassManager/blob/main/images/1.png?raw=true" width="300" height="300">
-<img src="https://github.com/aditya23043/PassManager/blob/main/images/2.png?raw=true" width="300" height="300">
-<img src="https://github.com/aditya23043/PassManager/blob/main/images/3.png?raw=true" width="300" height="300">
-<img src="https://github.com/aditya23043/PassManager/blob/main/images/4.png?raw=true" width="300" height="300">
+<img src="https://github.com/aditya23043/PassManager/blob/main/images/1.png?raw=true" width="300" height="300"><img src="https://github.com/aditya23043/PassManager/blob/main/images/2.png?raw=true" width="300" height="300"><img src="https://github.com/aditya23043/PassManager/blob/main/images/3.png?raw=true" width="300" height="300"><img src="https://github.com/aditya23043/PassManager/blob/main/images/4.png?raw=true" width="300" height="300">
 
 # Certificate
 - This is to certify that Aditya Gautam of class XII- M, Amity International School, Mayur Vihar, roll number - 2 has successfully completed a project in computer practical for the AISSCE as prescribed by CBSE in the academic year 2022-23.
