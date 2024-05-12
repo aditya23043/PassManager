@@ -2,7 +2,8 @@
 ![Manual](https://github.com/aditya23043/PassManager/blob/main/images/manual.jpg?raw=true)
 
 # Screenshots
-![Scrn1](https://github.com/aditya23043/PassManager/blob/main/images/1.png?raw=true =250x250)
+![Scrn1](https://github.com/aditya23043/PassManager/blob/main/images/1.png?raw=true)
+<img src="https://github.com/aditya23043/PassManager/blob/main/images/1.png?raw=true" width="100" height="100">
 ![Scrn2](https://github.com/aditya23043/PassManager/blob/main/images/2.png?raw=true)
 ![Scrn3](https://github.com/aditya23043/PassManager/blob/main/images/3.png?raw=true)
 ![Scrn4](https://github.com/aditya23043/PassManager/blob/main/images/4.png?raw=true)
